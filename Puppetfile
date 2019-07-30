@@ -19,7 +19,7 @@ forge 'https://forge.puppet.com'
 
 mod 'puppetlabs-apache', '5.0.0'
 
-mod 'amvasudeva-ssh',
-  :git    => 'https://github.com/amvasudeva/amvasudeva-ssh.git',
-  :Branch => 'production'
+#mod 'amvasudeva-ssh',
+#  :git     => 'https://github.com/amvasudeva/amvasudeva-ssh.git',
+#  :Branch  => 'production'
 
